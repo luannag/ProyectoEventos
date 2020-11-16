@@ -1,0 +1,123 @@
+* {
+margin: 0px;
+padding: 0px;
+}
+
+body{
+	background-color: #f2f2f2;
+}
+
+
+
+.cabecera{
+	background-color: #E63C2F;
+	width:100%;
+}
+
+.cabecera img{
+width: 20%;
+margin: 10px 0 10px 0; 
+float: center;
+}
+
+.cabecera a {
+font-family: arial;
+color: white;
+font-size: 18px;
+}
+
+.nav a:hover {
+font-family: arial;
+color: black;
+}
+
+.dropdown-menu a{
+color: black;
+
+}
+/**************************************/
+
+
+ul {
+font-size: 17px;
+font-family: arial;
+margin-left: 5px;
+}
+
+
+h4{
+	font-size: 20px;
+	color: black;
+}
+
+h3{
+	font-size: 20px;
+	font-family: Arial;
+}
+
+
+.container{
+margin-left: 10%;
+margin-right: 10%;
+margin-top: 40px;
+margin-bottom: 40px;
+}
+ p{
+	font-size: 15px;
+	font-family: arial;
+}
+
+/**************************************/
+#Pie{
+	width: 100%;
+	background-color: #262626;
+	font-family: Arial;
+	color: white;
+	padding: 10px;
+}
+
+#Pie h2{
+	font-size: 25px;
+	font-family: Arial;
+}
+
+#Pie p{
+	font-size: 15px;
+}
+
+
+#carrusel{
+    width: 80%;
+    display: inline-block;
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
+
+.carousel-item img{
+width: auto;
+height: auto;
+
+}
+
+video{
+width: 80%;
+height: auto;
+}
+
+
+.panel{
+display: none;
+}
+
+.flip {
+    text-align: center;
+    font-size: 15px;
+	font-weight:bold;
+	font-family: arial;
+    color:white;
+    background-color: #808080;
+    width: 100px;
+	padding: 10px;
+    border-radius: 5px;
+	margin-left: 45%;
+}
