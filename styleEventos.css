@@ -15,7 +15,6 @@ body{
 }
 
 .cabecera img{
-width: 20%;
 margin: 10px 0 10px 0; 
 float: center;
 }
@@ -99,7 +98,6 @@ margin-bottom: 40px;
 .carousel-item img{
 width: auto;
 height: auto;
-
 }
 
 video{
